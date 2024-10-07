@@ -10,6 +10,10 @@ const arr = [
   {
     name:"Shubham",
     age:24
+  },
+  {
+    name:"Hitesh",
+    age:25
   }
 ]
 
